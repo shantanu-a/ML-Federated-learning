@@ -1,0 +1,13 @@
+build base Support Vector Machines(svm). it should be a simple one.
+have an array to store the weight of different datasets
+split one dataset into 1000 different datasets
+run the svm on each dataset 
+store the parameters of the svm in the array
+repeat for all datasets, each time storing the weights in the array
+after all datasets, average the weights from the array. 
+set weight=avg(weight)
+continue this for n number of iterations
+
+so these are the steps to build the code. use this to write the code in python
+
+
